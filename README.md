@@ -1,2 +1,2 @@
-# adamwenger44.github.io
-personal page
+# portfolio
+homework assignment #1
